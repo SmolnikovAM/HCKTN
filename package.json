@@ -1,0 +1,17 @@
+{
+  "name": "exoscaletest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.15.2",
+    "koa": "^2.5.3",
+    "koa-router": "^7.4.0",
+    "sqlite3": "^4.0.2"
+  }
+}
