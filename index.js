@@ -28,7 +28,7 @@ async function startApp() {
 
   app.use(router.allowedMethods());
   app.use(router.routes());
-  app.listen(3000);
+  app.listen(80);
 }
 
 startApp();
